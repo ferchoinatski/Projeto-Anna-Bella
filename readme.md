@@ -1,0 +1,1 @@
+Projeto que realizei em 07/07/2023, somente com HTML e CSS, com a ajuda do professor do curso na Udemy. Faltam algumas coisas ficarem claras na minha mente, mas com o tempo irei realizar mais projetos, e melhorando sempre!
